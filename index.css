@@ -1,7 +1,8 @@
 .div {
-	background-color: red;
+	background-color: grey;
 	width: 100%
 	border: 1px solid gold;
+	font-family: sans-serif;
 }
 
 .first {
